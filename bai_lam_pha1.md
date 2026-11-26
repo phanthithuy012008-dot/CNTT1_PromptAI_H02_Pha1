@@ -138,16 +138,17 @@ Tôi là khách hàng đến Nha Khoa Nụ Cười , tôi 3 người đã đặt
 
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
 
-1. 
+1. 1.  JSON phải hợp lệ, có đúng 4 trường và loai_su_co phải thuộc 1 trong 4 nhãn cố định ; đồng thời phải đúng với nội dung email . Sai nhãn thì Trạm 2 sẽ tra nhầm dòng chính sách đền bù.
 
-2.
+
+2.2. Nội dung phải khớp với email và tóm tắt không dài quá 20 từ
 
 ### c) Câu lệnh viết tiếp
 
 **CAU LENH**
 
 ```text
-(Viết câu lệnh vào đây – xoá dòng này)
+Phản hồi trước của bạn bị ngắt giữa chừng ở đoạn.. Tuyệt đối không viết lại phần đã có, không mở đầu lại, không lặp lại lời chào hay lời xin lỗi
 ```
 
 ## 4.5. Prompt chấm bài theo Rubric

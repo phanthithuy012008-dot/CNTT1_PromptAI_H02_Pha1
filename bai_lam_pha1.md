@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:**Lê Quang Hào 
 - **Lớp:**CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/phanthithuy012008-dot/CNTT1_PromptAI_H02_Pha1/edit/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
